@@ -1,0 +1,3 @@
+Outcome,att,se,z,p_value,ci_low,ci_high,att_stars,N cohorts,Treated municipalities (weighted sum),Cohorts,Control group,Estimation window,Method
+"Rent growth (YoY, pp)",-5.421537888063078,0.8155975107367415,-6.647320297931907,2.984767988323256e-11,-7.020109009107092,-3.822966767019065,-5.4215***,2,271,"2024Q2, 2025Q1",Never treated only,2022-Q1 to 2025-Q4,Cohort-pooled ASCM with treated-municipality weighting
+Tenancy agreements per 10k,-1.9523099396645385,2.113133993270659,-0.9238931113132107,0.3555419700240945,-6.09405256647503,2.1894326871459526,-1.9523,2,271,"2024Q2, 2025Q1",Never treated only,2022-Q1 to 2025-Q4,Cohort-pooled ASCM with treated-municipality weighting

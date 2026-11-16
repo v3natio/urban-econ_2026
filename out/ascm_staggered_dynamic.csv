@@ -1,0 +1,15 @@
+Outcome,event_time,att,se,ci_low,ci_high,n_cohorts,treated_weight
+"Rent growth (YoY, pp)",0,-5.730569798935391,,,,2,271
+"Rent growth (YoY, pp)",1,-6.910746484434663,,,,2,271
+"Rent growth (YoY, pp)",2,-8.262448732106044,,,,2,271
+"Rent growth (YoY, pp)",3,-5.828232372828886,,,,2,271
+"Rent growth (YoY, pp)",4,-4.906338140849577,,,,1,140
+"Rent growth (YoY, pp)",5,-2.5907838964138934,,,,1,140
+"Rent growth (YoY, pp)",6,0.8938842278034862,,,,1,140
+Tenancy agreements per 10k,0,2.6576013599862263,,,,2,271
+Tenancy agreements per 10k,1,1.0395392505846874,,,,2,271
+Tenancy agreements per 10k,2,-7.0399059746975,,,,2,271
+Tenancy agreements per 10k,3,-0.40788755975557955,,,,2,271
+Tenancy agreements per 10k,4,-0.2904778976591551,,,,1,140
+Tenancy agreements per 10k,5,-9.872341897320641,,,,1,140
+Tenancy agreements per 10k,6,-9.872341897320641,,,,1,140

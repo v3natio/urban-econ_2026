@@ -1,0 +1,26 @@
+[project]
+name = "public-sector-2026"
+version = "0.1.0"
+description = ""
+authors = [
+    {name = "v3natio",email = "72844565+v3natio@users.noreply.github.com"}
+]
+requires-python = ">=3.14"
+dependencies = [
+    "jupyterlab (>=4.5.6,<5.0.0)",
+    "pandas (>=3.0.2,<4.0.0)",
+    "matplotlib (>=3.10.8,<4.0.0)",
+    "statsmodels (>=0.14.6,<0.15.0)",
+    "linearmodels (>=7.0,<8.0)",
+    "scipy (>=1.17.1,<2.0.0)",
+    "cvxpy (>=1.8.2,<2.0.0)",
+    "openpyxl (>=3.1.5,<4.0.0)",
+    "differences (>=0.3.0,<0.4.0)",
+    "scikit-learn (>=1.8.0,<2.0.0)",
+    "pysyncon (>=1.5.2,<2.0.0)"
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"

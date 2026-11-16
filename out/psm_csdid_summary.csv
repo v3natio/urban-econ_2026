@@ -1,0 +1,3 @@
+Outcome,att,n_cells,n_treated_weight,se,z,p_value,ci_low,ci_high,att_stars,N municipalities (matched),N treated (matched),N controls (matched),Matching,Caliper rule,Control group,Estimation window,Bootstrap reps
+"Rent growth (YoY, pp)",-6.768746721851245,11,1030.0,3.025684104765773,-2.237096302019683,0.025280046612601303,-12.699087567192159,-0.8384058765103299,-6.7687**,361,202,159,"3:1 nearest-neighbor, replacement",0.10 * SD(logit pscore),Never treated only,2022Q1-2025Q4,199
+Tenancy agreements per 10k,-2.904827362960446,11,956.0,2.4477499284685575,-1.186733713757214,0.2353326723546152,-7.702417222758818,1.8927624968379262,-2.9048,341,191,150,"3:1 nearest-neighbor, replacement",0.10 * SD(logit pscore),Never treated only,2022Q1-2025Q4,199

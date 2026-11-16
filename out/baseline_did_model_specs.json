@@ -1,0 +1,13 @@
+{
+  "analysis_start_year": 2022,
+  "analysis_end_year": null,
+  "pre_reference_index": 8098,
+  "models": {
+    "1. Rent growth": "outcome_price_growth ~ treated",
+    "2. Rent growth + controls": "outcome_price_growth ~ treated + rent_to_income_proxy + pre_contracts_per_10k",
+    "3. Rent growth + time FE + muni FE": "outcome_price_growth ~ treated + C(period) + C(Code)",
+    "4. Tenancy agreements": "outcome_market_activity ~ treated",
+    "5. Tenancy agreements + controls": "outcome_market_activity ~ treated + rent_to_income_proxy + pre_rent_growth",
+    "6. Tenancy agreements + time FE + muni FE": "outcome_market_activity ~ treated + C(period) + C(Code)"
+  }
+}

@@ -1,0 +1,10 @@
+\begin{tabular}{llrrrrrllllllrrlrr}
+\toprule
+Outcome & Joint test null & Wald statistic & p_value & N observations & N municipalities & Lead count & Reference period & Time FE & Municipality FE & Clustered SE & Test & Placebo treatment starts & ATT_placebo & SE & ATT_placebo_stars & CI low & CI high \\
+\midrule
+outcome_price_growth & All pre-treatment lead coefficients = 0 & 15.6175 & 0.1559 & 5916 & 528 & 11.0000 & event_time = -1 & Yes & Yes & Municipality & Lead-only event-study & NaN & NaN & NaN & NaN & NaN & NaN \\
+outcome_market_activity & All pre-treatment lead coefficients = 0 & 35.9605 & 0.0002 & 10944 & 947 & 11.0000 & event_time = -1 & Yes & Yes & Municipality & Lead-only event-study & NaN & NaN & NaN & NaN & NaN & NaN \\
+outcome_price_growth & NaN & NaN & 0.6409 & 4752 & 528 & NaN & NaN & Yes & Yes & Municipality & Placebo DiD & 2023-Q1 & 0.5872 & 1.2588 & 0.5872 & -1.8800 & 3.0544 \\
+outcome_market_activity & NaN & NaN & 0.0504 & 8523 & 947 & NaN & NaN & Yes & Yes & Municipality & Placebo DiD & 2023-Q1 & -1.6468 & 0.8415 & -1.6468* & -3.2962 & 0.0026 \\
+\bottomrule
+\end{tabular}

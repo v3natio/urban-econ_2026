@@ -1,0 +1,5 @@
+Outcome,Joint test null,Wald statistic,p_value,N observations,N municipalities,Lead count,Reference period,Time FE,Municipality FE,Clustered SE,Test,Placebo treatment starts,ATT_placebo,SE,ATT_placebo_stars,CI low,CI high
+outcome_price_growth,All pre-treatment lead coefficients = 0,15.617452833292484,0.15593740020315686,5916,528,11.0,event_time = -1,Yes,Yes,Municipality,Lead-only event-study,,,,,,
+outcome_market_activity,All pre-treatment lead coefficients = 0,35.96053508765011,0.00017181192145076325,10944,947,11.0,event_time = -1,Yes,Yes,Municipality,Lead-only event-study,,,,,,
+outcome_price_growth,,,0.640854643278636,4752,528,,,Yes,Yes,Municipality,Placebo DiD,2023-Q1,0.587216385356221,1.2587590586652957,0.5872,-1.8799513696277588,3.0543841403402006
+outcome_market_activity,,,0.050352087849167386,8523,947,,,Yes,Yes,Municipality,Placebo DiD,2023-Q1,-1.6467967048819712,0.8415072904708936,-1.6468*,-3.2961509942049227,0.0025575844409801984

@@ -1,0 +1,3 @@
+Outcome,ATT,SE,p_value,CI low,CI high,ATT (stars),N cells,Treated weight,N municipalities,Control group,Window,Bootstrap reps
+"Rent growth (YoY, pp)",-6.466421151050273,1.4126058157581358,4.7021882587650055e-06,-9.235128549936219,-3.697713752164327,-6.4664***,11,1504,528,Never treated only,2022Q1-2025Q4,399
+Tenancy agreements per 10k,-7.130241884750718,0.9912898674118076,6.343814362708144e-13,-9.07317002487786,-5.187313744623575,-7.1302***,11,1504,947,Never treated only,2022Q1-2025Q4,399

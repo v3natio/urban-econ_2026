@@ -1,0 +1,13 @@
+Row,1. Rent growth,2. Rent growth + controls,3. Rent growth + time FE + muni FE,4. Tenancy agreements,5. Tenancy agreements + controls,6. Tenancy agreements + time FE + muni FE
+Treated,-2.9278***,-5.7301***,-4.2048***,5.5126***,-2.0853***,-6.7518***
+,(0.4462),(0.4493),(0.7462),(0.7661),(0.7436),(0.6565)
+Rent/Income proxy,,860.2152***,,,-298.0654***,
+,,(55.4788),,,(101.8501),
+"Tenancy agreements per 10k, pre",,0.0562***,,,,
+,,(0.0144),,,,
+"Rent growth, pre",,,,,0.6140***,
+,,,,,(0.1264),
+Observations,8448,8448,8448,15152,8448,15152
+Municipalities,528,528,528,947,528,947
+Time FE,No,No,Yes,No,No,Yes
+Municipality FE,No,No,Yes,No,No,Yes
